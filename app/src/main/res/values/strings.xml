@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwoPaneProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Boxer names -->
+    <string name="dias">Dias Exkalibur</string>
+    <string name="odwet">Odwet Exkalibur</string>
+    <string name="eliza">Eliza Ewenement</string>
+    <string name="amelia">Amelinium Ewenement</string>
+    <string name="next">Next Exkalibur</string>
+
+    <!-- Boxer descriptions -->
+    <string name="dias_desc">Don Dias Exkalibur the best description</string>
+    <string name="odwet_desc">Odwet Exkalibur the best description</string>
+    <string name="eliza_desc">Eliza Ewenement the best description</string>
+    <string name="amelinium_desc">Amelinium Ewenement the best description</string>
+    <string name="next_desc">Next exkalibur the best description</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
